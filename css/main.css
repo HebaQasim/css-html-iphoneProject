@@ -1,0 +1,76 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.products{
+    margin: 40px 60px;
+}
+h1{
+    margin: 0 0 30px;
+}
+.iphone{
+    
+    width: 186px;
+    border: 1px solid rgb(214, 213, 213);
+    margin: 3px 3px 3px;
+    display: inline-block;
+    
+}
+ img{
+    margin: 8px;
+    width: 170px;
+    height: 130px;
+}
+.iphone h2{
+    margin:0px 8px;
+    font-size: 17px;
+}
+.discription{
+    margin: 8px;
+    color: darkgrey;
+    font-size: 12px;
+}
+span{
+    color: red;
+    font-size: 10px;
+}
+.price{
+    color: green;
+    margin: 0px 8px 8px;
+    font-size: 13px;
+}
+.cart {
+    background-color: rgb(68, 68, 201);
+    color: white;
+    margin-left: 8px;
+    margin-bottom: 8px;
+    padding: 7px 29px;
+    display: inline-block;
+    border: 0cap;
+    font-size: 13px;
+  
+}
+ .cart svg{
+    width: 10px;
+    fill: white;
+    
+}
+.heart{
+    background-color: white;
+    color: white;
+    display: inline-block;
+    padding: 4.5px 7px;
+    
+    border: 2px solid blue;
+}
+.heart svg{
+    width: 10px; 
+    fill: blue;
+}
+
+.cart p{
+    display: inline-block;
+    margin-left: 5px;
+}
